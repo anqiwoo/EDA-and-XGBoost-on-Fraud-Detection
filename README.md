@@ -1,5 +1,5 @@
 # EDA-and-XGBoost-on-Fraud-Detection
-EDA and XGBoost on Fraud Detection——My firtst kaggle competition project
+EDA and XGBoost on Fraud Detection——My first kaggle competition project
 
 Please refer to the url below to view my project on Kaggle.
 
